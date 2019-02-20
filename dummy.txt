@@ -1,1 +1,2 @@
 Dummy line appended in this text file.
+New line added.
