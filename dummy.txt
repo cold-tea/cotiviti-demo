@@ -1,2 +1,3 @@
 Dummy line appended in this text file.
 New line added.
+Settings, Tools, Macro is added.
