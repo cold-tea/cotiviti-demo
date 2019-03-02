@@ -1,1 +1,2 @@
 new line entered in the text file.
+another new line appended.
