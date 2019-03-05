@@ -1,2 +1,3 @@
 Some line added in amend.txt
 Another line added in amend.txt
+Third line added from master
