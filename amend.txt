@@ -1,1 +1,2 @@
 Some line added in amend.txt
+Another line added in amend.txt
